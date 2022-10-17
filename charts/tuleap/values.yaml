@@ -84,6 +84,7 @@ mysql:
 
 redis:
   enabled: true
+  port: 6379
 
 mailhog:
   enabled: true
